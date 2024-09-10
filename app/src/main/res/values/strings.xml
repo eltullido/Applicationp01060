@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Applicationp01</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+</resources>
